@@ -1,7 +1,5 @@
 ### Hey folks. Welcome to my GitHub! I hope you find what you're looking for...
 
-[![Image of https://github.com/KamranC124/fk-views-counter](https://github.com/KamranC124/fk-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/KamranC124/fk-views-counter)
-
 ### 🏆 Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KamranC124&theme=onedark&no-bg=false&count_private=true)](https://github.com/MattyTheHacker/KamranC124)
